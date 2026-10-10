@@ -11,3 +11,4 @@ vim.opt.scrolloff = 5
 vim.opt.timeoutlen = 300
 vim.g.autoformat = false
 vim.opt.guicursor = "n-v-c:block-blinkon500,i-ci-ve:ver25-blinkon500,r-cr:hor20-blinkon500"
+vim.opt.scrollopt:append("hor")
